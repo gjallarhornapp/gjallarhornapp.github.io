@@ -2424,6 +2424,17 @@ fieldset:disabled a.btn {
   background-color: #007bff;
   border-color: #007bff;
 }
+.btn-gjallarhornBright {
+  color: #fff;
+  background-color: #f95959;
+  border-color: #f95959;
+}
+.btn-gjallarhornBright:hover {
+  color: #fff;
+  background-color: #e63232;
+  border-color: #e63232;
+}
+
 
 .btn-primary:hover {
   color: #fff;
@@ -6518,6 +6529,10 @@ a.close.disabled {
 .bg-gjallahornGrey {
   background-color: #455d7a  !important;
 }
+.bg-gjallahornGreyLight{
+  background-color: #bbbbbb  !important;
+}
+
 .bg-gjallahornLight {
   background-color: #e3e3e3  !important;
 }

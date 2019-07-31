@@ -1,0 +1,10 @@
+#rhettPic{
+ content: url("https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif");
+}
+
+#rhettPic:hover{
+    content: url("https://i.redd.it/vid6wfndkgz21.gif");
+}
+#rhettPic:active{
+    content: url("https://i.redd.it/vid6wfndkgz21.gif");
+}

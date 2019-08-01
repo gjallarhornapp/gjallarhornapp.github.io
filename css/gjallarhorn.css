@@ -1,10 +1,10 @@
 #rhettPic{
- content: url("https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif");
+ content: url("https://www.ibts.org/wp-content/uploads/2017/08/iStock-476085198.jpg");
 }
 
-#rhettPic:hover{
-    content: url("https://i.redd.it/vid6wfndkgz21.gif");
+/* #rhettPic:hover{
+    content: url("https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.giff");
 }
 #rhettPic:active{
     content: url("https://i.redd.it/vid6wfndkgz21.gif");
-}
+} */
